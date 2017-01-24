@@ -1,0 +1,20 @@
+{
+  "generator-angular-meteor": {
+    "filters": {
+      "js": true,
+      "html": true,
+      "scss": true,
+      "pagination": true,
+      "framework": "bootstrap",
+      "auth": true,
+      "oauth": true,
+      "googleAuth": true,
+      "appname": "strollerDesertAppApp",
+      "projectname": "strollerDesertApp",
+      "modules": "'angular-meteor',\n  'ui.router',\n  'ui.bootstrap',\n  'angularUtils.directives.dirPagination',\n  'accounts.ui'",
+      "usedBower": false,
+      "bower": false
+    },
+    "appname": "strollerDesertApp"
+  }
+}
